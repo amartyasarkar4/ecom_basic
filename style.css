@@ -59,6 +59,7 @@ a:active {
   text-align: center;
   padding: 5px;
   border: 1px solid rgba(229, 229, 229, 0.845);
+  border-radius: 5px;
 }
 #category_show li h2 {
   margin: 0;
