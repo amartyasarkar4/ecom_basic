@@ -183,8 +183,10 @@ a:active {
   position: absolute;
   left: 8px;
   top: 5px;
-  background-color: rgba(197, 246, 238, 0.499);
+  background-color: rgb(255, 255, 255);
   border-radius: 4px;
+  padding: 1px 8px;
+  font-size: 11px;
 }
 .badgeDiv:hover {
   background-color: rgb(167, 252, 238);
